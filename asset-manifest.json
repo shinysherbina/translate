@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/translate/static/js/main.9ce5202d.js",
+    "static/js/453.ccb00b58.chunk.js": "/translate/static/js/453.ccb00b58.chunk.js",
+    "index.html": "/translate/index.html",
+    "main.9ce5202d.js.map": "/translate/static/js/main.9ce5202d.js.map",
+    "453.ccb00b58.chunk.js.map": "/translate/static/js/453.ccb00b58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9ce5202d.js"
+  ]
+}
